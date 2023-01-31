@@ -1,19 +1,7 @@
-a_122 = '''masum'''
-# a = 'masum'
-a = "masum"
-b = 345
-c = 45.32
-d = True
-# d = None
+'''
+multi
+Line
+Comment'''
 
-# Printing the variables
-print(a)
-print(b)
-print(c)
-print(d)
-
-# Printing the type of variables
-print(type(a))
-print(type(b))
-print(type(c))
-print(type(d))
+# single line comment
+print("Hey You")
