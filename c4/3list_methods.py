@@ -7,4 +7,8 @@ l1.append(10)  # adds value at the end of the list
 print(l1)
 l1.insert(2, 32)  # inserts 32 at index 2
 print(l1)
-l1.pop(3)
+l1.pop(3)  # removes the value from index 3
+print(l1)
+l1.remove(32)  # remove value 32 from list
+l1.sort()
+print(l1)
